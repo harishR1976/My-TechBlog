@@ -1,0 +1,9 @@
+# Robots.txt for TechBlog Publication
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: http://localhost:5000/sitemap.xml
+Sitemap: /sitemap.xml
